@@ -1,2 +1,5 @@
-Hello, world.
-This is the initial commit of my personal readme.
+Hello, world! 
+
+- 📚Computer Science degree at Politecnico di Milano (Italy)
+- Linux User 🐧
+- Work in progress...
