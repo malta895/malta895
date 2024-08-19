@@ -4,8 +4,6 @@ I am a passionate Software Engineer always ready for new Challenges!
 
 Here is a list of a few university and side projects I have been working on:
 
-## Projects
-
 ### [TOgetherDO](https://github.com/malta895/TOgetherDO)
 A Flutter application for sharing TODO lists with friends, utilizing Firebase for database, authentication, and push notifications.
 
