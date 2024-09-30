@@ -15,3 +15,6 @@ Implemented a book e-commerce website using NodeJS, PostgreSQL, jQuery, Bootstra
 
 ### [Candy Crush Inspired Game](https://github.com/malta895/CandyCrushMalta)
 Developed a game inspired by Candy Crush Saga using C++ and Qt GUI libraries.
+
+### [Rust JSON Parser](https://github.com/malta895/rust-json-parser)
+A JSON parser written in Rust.
